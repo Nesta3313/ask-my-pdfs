@@ -1,7 +1,8 @@
 streamlit
+python-dotenv
 langchain
 langchain-community
 langchain-openai
-chromadb
 pypdf
-python-dotenv
+chromadb
+tiktoken
